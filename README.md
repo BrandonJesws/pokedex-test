@@ -17,4 +17,4 @@ You will need the following things properly installed on your smartphone or emul
 ## Running
 
 * Run the project with `yarn start` and in the app movil (expo) scan the QR code.
-* Run the project in web with `yarn web` (put the browser in divice mode).
+* Run the project in web with `yarn web` and put the browser in divice mode (no app expo needed).
